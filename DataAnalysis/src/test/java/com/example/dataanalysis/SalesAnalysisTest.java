@@ -30,7 +30,7 @@ class SalesAnalysisTest {
     /**
      * Creates mock sales data for testing.
      * Total: 10 records
-     * Total Revenue: $15,000
+     * Total Revenue: $25,000
      * Product Lines: Classic Cars, Motorcycles, Planes
      * Territories: NA, EMEA, APAC
      * Customers: Customer A, B, C
