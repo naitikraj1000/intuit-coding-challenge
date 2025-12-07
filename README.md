@@ -126,7 +126,7 @@ intuit-coding-challenge/
 └── README.md                  # This file
 ```
 
-##  Objectives
+## 🎯 Learning Objectives
 
 ### ProducerConsumer Project Demonstrates:
 - Thread synchronization using synchronized blocks
