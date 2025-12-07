@@ -2,6 +2,13 @@
 
 This repository contains two Java projects demonstrating advanced programming concepts and best practices:
 
+## 📥 Clone This Repository
+
+```bash
+git clone https://github.com/naitikraj1000/intuit-coding-challenge.git
+cd intuit-coding-challenge
+```
+
 ## 📁 Projects Overview
 
 ### 1. ProducerConsumer - Thread Synchronization Pattern
